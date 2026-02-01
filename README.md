@@ -1,11 +1,9 @@
 # Redflymeer
-## Golang, Python developer
 
-| Language          | Skill             | Experience   |
-|-------------------|-------------------|--------------|
-| **Go (Golang)🦫** | Junior            | ~1 week      |
-| **Python🐍**      | Junior            | ~1.5 years   |
-| **GUI (PySide6, Tkinter)** | Base (Buttons, Labels, LineEdits) | ~1 years |
+## I'm making mini projects for more skills in coding
 
-## What i'm learning now?
-I'm learning Go and have good progress
+| Language          | Skill             | Experience   | Libaries |
+|-------------------|-------------------|--------------|----------|
+| **Go**            | Junior            | ~3 week      | fmt only |
+| **Python**        | Junior            | ~2 years     | Pyside6, Tkinter something more |
+| **C++**           | Junior            | ~1 month     | iostream only |
