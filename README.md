@@ -1,5 +1,18 @@
-| Language          | Skill             | Experience   | Libaries |
-|-------------------|-------------------|--------------|----------|
-| **Go**            | Junior            | ~3 week      | fmt only |
-| **Python**        | Junior            | ~2 years     | Pyside6, Tkinter something more |
-| **C++** (mainstream)           | Junior            | ~5 month     | iostream, cstdlib, fstream, gtkmm |
+# С++ Джуниор Разработчик
+Всем привет, я начинающий программист. Программирую уже __2 года__. Сначала на python, потом на go и щас на C++. Разрабатываю на c++ ~6 месяцев. Щас занимаюсь со своим другом над NanoTun. 
+---
+## Что я использую:
+__Git__,
+
+__Gtk--__,
+
+__NeoVim__
+
+## Моя система
+*__Debian 13.01__*
+
+## Контакты
+
+__Discord:__ @thisrfm
+
+__Telegram:__ @CoffPierce
